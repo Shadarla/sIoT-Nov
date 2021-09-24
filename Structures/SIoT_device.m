@@ -9,6 +9,7 @@ classdef SIoT_device
          services_list;
          mn_list;
          QoS;
+         Clock_velocity; %(Dean)
     end
 end
     
